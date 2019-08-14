@@ -1,6 +1,6 @@
 <img src="http://ojin.cz/wp-content/uploads/LangSync.png">
 
-# WordPress Multi-language Synchronozer
+# WordPress Multi-language Synchronizer
 WordPress cross-domain post/page/taxonomy/WooCommerce mapping and synchronization tool for multi-language websites.
 
 # What is it
