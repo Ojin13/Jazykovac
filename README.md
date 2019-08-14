@@ -1,5 +1,7 @@
-# WordPress-MultiLanguage-Mapping-Synchronizer
-WordPress cross-domain post/page/taxonomy/WooCommerce synchronization tool for multi-language websites.
+<img src="http://ojin.cz/wp-content/uploads/LangSync.png">
+
+# WordPress Multi-language Synchronozer
+WordPress cross-domain post/page/taxonomy/WooCommerce mapping and synchronization tool for multi-language websites.
 
 # What is it
 This code was created for mapping WordPress content IDs in one database (DB_mapping.sql) shared by multiple WordPress installations on different subdomains and this way connecting same content (eg.: WooCommerce product or post) with different languages. 
